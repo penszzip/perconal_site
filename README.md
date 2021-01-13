@@ -1,1 +1,1 @@
-# My first perconal site!
+# My first personal site!
